@@ -1,4 +1,4 @@
-# Stencil Buffer: Portal Room
+# Portal Room
 
 Use case of the stencil buffer.
 
